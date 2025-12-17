@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Christian Olguin
 description              : Christian Olguin - Projects and CV 
-baseurl                  : "ceo49-cyber" # Set this to your repo name 
+baseurl                  : "/fa25-portfolio-ceo49-cyber" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
